@@ -1,3 +1,3 @@
 # dummy
 dummy project git intro 
-sahring project
+sharing project
